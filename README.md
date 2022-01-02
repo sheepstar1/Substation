@@ -96,6 +96,14 @@ if __name__ == '__main__':
 即可进入程序选择。
 
 # 运行截图
+## 文件选择
+ <img src="https://github.com/sheepstar1/Substation/blob/main/3.png" width="1476" height="792" alt="正在加载请稍后"/>
+
+## 文件转换
+ <img src="https://github.com/sheepstar1/Substation/blob/main/2.png" width="1476" height="792" alt="正在加载请稍后"/>
+ 
+## 文件加载
+ <img src="https://github.com/sheepstar1/Substation/blob/main/1.png" width="1476" height="792" alt="正在加载请稍后"/>
  
  
  
